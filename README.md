@@ -2,14 +2,14 @@
 
 ### API desenvolvida com Python + Django + Django Rest Framework + Swagger
 
- - Para que a API funcione corretamente,tenha instalado o python na versão 3.10.12 ou superior.
+ - Para que a API funcione corretamente, tenha instalado o python na versão 3.10.12 ou superior.
  - É necessário executar o comando abaixo para que a API funcione corretamente:
  
  ```bash
     $ pip install -r requirements.txt
  ```
 
- - Para execurtar a API, acesse a pasta da API e execute o comando abaixo:
+ - Para executar a API, acesse a pasta da API e execute o comando abaixo:
 
  ```bash
     $ python manager.py runserver
