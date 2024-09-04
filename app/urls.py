@@ -26,8 +26,6 @@ schema_view = get_schema_view(
         default_version='v1',
         description="Documentação da API de Funcionarios",
         terms_of_service="https://www.google.com/policies/terms/",
-        contact=openapi.Contact(email="contato@exemplo.com"),
-        license=openapi.License(name="BSD License"),
     ),
     public=True,
     permission_classes=(permissions.AllowAny,),
